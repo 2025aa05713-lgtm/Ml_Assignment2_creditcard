@@ -127,8 +127,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
 ### Live Application:
-[Streamlit Community Cloud Link](https://your-app-link.streamlit.app)
+[Streamlit Community Cloud Link](https://mlassignment2creditcard.streamlit.app/)
 
 ---
 
@@ -184,8 +185,8 @@ ML_Assignment2_CreditCardFraud/
 
 ## 🔗 Links & Resources
 
-- **GitHub Repository**: [Your GitHub Repo Link]
-- **Live Application**: [Streamlit Cloud Link]
+- **GitHub Repository**: [(https://github.com/2025aa05713-lgtm/Ml_Assignment2_creditcard.git)]
+- **Live Application**: [(https://mlassignment2creditcard.streamlit.app/)]
 - **Dataset Source**: [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Streamlit Documentation**: [streamlit.io](https://streamlit.io)
 
@@ -202,5 +203,5 @@ ML_Assignment2_CreditCardFraud/
 
 **BITS Pilani - Machine Learning Assignment 2**  
 **Credit Card Fraud Detection System**  
-**Submitted by: [Your Name]**  
+**Submitted by: [Arijit Dutta]**  
 **ID: 2025AA05713**
