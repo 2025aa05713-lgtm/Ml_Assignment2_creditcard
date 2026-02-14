@@ -43,7 +43,7 @@ st.markdown("""
 
 # Title
 st.markdown('<h1 class="main-header">💳 Credit Card Fraud Detection System</h1>', unsafe_allow_html=True)
-st.markdown("### BITS Pilani - M.Tech (AIML/DSE) - Machine Learning Assignment 2")
+st.markdown("### BITS Pilani - M.Tech (AIML) - Machine Learning Assignment")
 
 # Sidebar for model selection
 st.sidebar.title("🎯 Model Selection")

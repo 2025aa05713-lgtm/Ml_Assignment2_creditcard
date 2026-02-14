@@ -1,7 +1,7 @@
 ### Machine Learning Assignment 2
 
 **Student ID**: 2025AA05713
-**Submission Date**:9th February 2026
+**Submission Date**:15th February 2026
 
 ---
 
@@ -54,6 +54,7 @@ All models were trained on the balanced dataset and evaluated on the held-out te
 ---
 
 ## 📈 Model Performance Comparison
+
 
 | Model                | Accuracy | AUC Score | Precision | Recall | F1 Score | MCC      |
 |----------------------|----------|-----------|-----------|--------|----------|----------|
@@ -165,13 +166,6 @@ ML_Assignment2_CreditCardFraud/
 - **Model Persistence**: joblib
 - **Web Framework**: Streamlit
 
-### Environment:
-- **Python Version**: 3.14.1
-- **Virtual Environment**: .venv
-- **Platform**: macOS
-
----
-
 ## 📊 Results Summary
 
 - **Best Model**: Random Forest with 94.92% accuracy
@@ -192,14 +186,6 @@ ML_Assignment2_CreditCardFraud/
 
 ---
 
-## 📝 Notes
-
-- Dataset contains sensitive financial information - handle with care
-- Models trained on undersampled data for balanced learning
-- All models saved using joblib for deployment compatibility
-- Web application includes prediction functionality for new data
-
----
 
 **BITS Pilani - Machine Learning Assignment 2**  
 **Credit Card Fraud Detection System**  
